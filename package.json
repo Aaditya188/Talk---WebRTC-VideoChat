@@ -4,6 +4,7 @@
 	"description": "A free video call app for the web.",
 	"main": "server.js",
 	"scripts": {
+		"start": "node server.js",
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
